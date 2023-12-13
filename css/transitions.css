@@ -56,15 +56,6 @@
     transition:transform 0.5s 0.5s, margin 0.5s;
 }
 
-
-
-
-
-
-
-
-
-
 #ex08 .recipe {
     transition: box-shadow 0.5s;
 }
@@ -81,7 +72,6 @@
 #ex09 .recipe:hover .recipe-header {
     transform: translateY(-20px);
 }
-
 
 #ex10 .recipe {
     position: relative;
